@@ -1,2 +1,5 @@
-# boogleSolver
-solve boogle with node js
+# boggle-1
+
+$node boggle.js <board length>
+
+ex : $node boogle.js 5
